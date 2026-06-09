@@ -6,6 +6,7 @@ A friendly desktop app for archiving YouTube **playlists, channels, and individu
 
 ## Contents
 
+- [Screenshots](#screenshots)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Quick start](#quick-start)
@@ -29,6 +30,17 @@ A friendly desktop app for archiving YouTube **playlists, channels, and individu
 - [Where files end up](#where-files-end-up)
 - [Troubleshooting](#troubleshooting)
 - [Notes & disclaimers](#notes--disclaimers)
+
+---
+
+## Screenshots
+
+|  | Idle | Downloading |
+| --- | --- | --- |
+| **Standard view** | <img src="Preview/SunnyZ-YT-Archiver-01.jpg" alt="Default view" width="360"> | <img src="Preview/SunnyZ-YT-Archiver-02.jpg" alt="Running" width="360"> |
+| **Retro keygen mode** | <img src="Preview/SunnyZ-YT-Archiver-03.jpg" alt="Retro keygen view" width="360"> | <img src="Preview/SunnyZ-YT-Archiver-04.jpg" alt="Running in retro keygen view" width="360"> |
+
+> Press **Alt + F4** to toggle the retro keygen skin — see [Secret keygen mode](#secret-keygen-mode-).
 
 ---
 
