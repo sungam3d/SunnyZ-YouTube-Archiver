@@ -1,0 +1,3 @@
+@echo off
+echo Running your Python program...
+python setup_archiver.py

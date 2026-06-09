@@ -1,0 +1,3 @@
+@echo off
+echo Running your Python program...
+python SunnyZ-YouTube-Archiver.py
